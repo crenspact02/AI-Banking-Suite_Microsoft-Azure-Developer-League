@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Loan Approval System</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI Smart Banking developed by using Microsoft Azure">
+    <meta name="author" content="Conossieurs">
+    <title></title>
+	<!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet"> 
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet"> 
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+    <link rel="shortcut icon" href="images/ico/favicon.ico"> 
+    
+</head> 
+<body id="home">
+    <header id="header">
+        <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+                </div>
+				
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="scroll active"><a href="index.html">Home</a></li> 
+						                       
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+    </header><!--/header-->
+
+    <section class="download-now" id="products">
+        <div class="container">
+		 <div class="section-header">
+                <h2 class="section-title wow fadeInDown">
+                    Smart Loan Approval Application</h2>
+                <!--<p class="wow fadeInDown"> <br> </p>
+            </div>-->
+			
+          <div class="row">
+            <div class="col-md-6 wp1 animated fadeInUp"> 
+                <form action="http://20.97.10.88/cgi-bin/hello.py">
+                    <label><b>Select Gender: </b></label><br>
+                    <input type="radio" id="male" name="gender" value="Male">
+                    <label for="male">Male</label>
+                    <input type="radio" id="female" name="gender" value="Female">
+                    <label for="female">Female</label>
+                    <input type="radio" id="other" name="gender" value="Other">
+                    <label for="other">Other</label>
+                    <br />
+    
+                    <label><b>Married status: </b></label><br>
+                    <input type="radio" id="Yes" name="mrd" value="Yes"/>
+                    <label for="Yes">Yes</label>
+                    <input type="radio" id="No" name="mrd" value="No" />
+                    <label for="No">No</label>
+                    <br />
+    
+                    <label><b>Number of Dependants: </b></label><br>
+                    <input type="text" name="depend"/>
+                    <br />
+    
+                    <label><b>Education: </b></label><br>
+                    <input type="radio" id="graduate" name="edu" value="Graduate"/>
+                    <label for="Yes">Graduate</label>
+                    <input type="radio" id="Not Graduate" name="edu" value="Not Graduate" />
+                    <label for="Not Graduate">Not Graduate</label>
+                    <br />
+    
+                    <label><b>Self Employed</b></label><br>
+                    <input type="radio" id="Yes" name="emp" value="Yes"/>
+                    <label for="Yes">Yes</label>
+                    <input type="radio" id="No" name="emp" value="No" />
+                    <label for="No">No</label>
+                    <br />
+    
+                    <label><b>Applicant Income: </b></label><br>
+                    <input type="text" name="income"/>
+                    <br />
+    
+                    <label><b>Co-Applicant Income: </b></label><br>
+                    <input type="text" name="coincome"/>
+                    <br />
+    
+                    <label><b>Loan Amount: </b></label><br>
+                    <input type="text" name="loanamt"/>
+                    <br />
+    
+                    <label><b>Loan Amount term: </b></label><br>
+                    <input type="text" name="loanterm"/>
+                    <br />
+    
+                    <label><b>Credit History: </b></label><br>
+                    <input type="radio" id="1" name="hist" value="1"/>
+                    <label for="1">1</label>
+                    <input type="radio" id="2" name="hist" value="2" />
+                    <label for="2">2</label>
+                    <input type="radio" id="3" name="hist" value="3" />
+                    <label for="3">3</label>
+                    <input type="radio" id="4" name="hist" value="4" />
+                    <label for="4">4</label>
+                    <input type="radio" id="5" name="hist" value="5" />
+                    <label for="5">5</label>
+                    <br />
+    
+                    <label><b>Property Area: </b></label><br>
+                    <input type="radio" id="1" name="area" value="Urban"/>
+                    <label for="1">Urban</label>
+                    <input type="radio" id="2" name="area" value="Semiurban" />
+                    <label for="2">Semiurban</label>
+                    <input type="radio" id="3" name="area" value="Rural" />
+                    <label for="3">Rural</label>
+                    <br />
+                    <button class="btn"><input type='submit' /></button>
+                </form>
+            </div>
+			 
+			</div>
+          </div>
+        </div>
+    </section>
+</body>
+</html>
