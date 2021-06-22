@@ -1,1 +1,2 @@
-# AI-Banking-Suite_Microsoft-Build-Hackathon
+# AI Banking Suite
+> Azure Developer League Hackathon
