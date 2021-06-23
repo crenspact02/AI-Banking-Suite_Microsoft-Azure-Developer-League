@@ -1,2 +1,36 @@
 # AI Banking Suite
 > Azure Developer League Hackathon
+---
+
+<h3>Objective</h3>
+<p>AI Banking Suite is a set of Azure AI services that makes the banks smarter and allow them to operate efficiently.</p>
+
+<h3>Implementation</h3>
+<p>Following is the invincible set of services: </p>
+<ul>
+  <li><b>Smart Loan Approval Application: </b>Using Azure Responsible AI, we are going to train a model, which will help in conducting the initial screening of the Loan Application Form, and shortlist the eligible ones for Loan Approval.
+</li>
+  <li><b>24x7 Smart Banking Bot: </b>Trained on Azure Bot services, which will interact with the customers 24x7 and help in resolving all the initial queries about the services, site's navigation, customer care, etc.
+</li>
+  <li><b>Credit Card Fraud Detection System: </b>Trained on Azure ML Studio's supervised training model, from the previous transaction, flagged with fraud transaction, it will help in model training and prevent the transactions from fraud credit cards.
+</li>
+  <li><b>Predictive AI: </b>Monitors the bank growth constantly and predicts its future positions in the market. This will help the banks in tracking their current progress and modify their current methodologies if need be.
+</li>
+  <li><b>Permanent Account Closing Request Form with Facial Verification: </b>Designed for the bank's clients, we have seen account opening facilities available so that customers can easily open a bank account digitally, but no bank offers permanent account closing facility. We provide this facility in our project.
+  </li>
+</ul>
+
+<h3>Detailed Working</h3>
+
+1. Smart Loan Approval Application: This is the Machine Learning Model trained on VotingEnsemble Algorithm using Azure Automated ML. Loan Applicant will be given an online form to fill. On the basis of data filled by the customer, the model will recommend to the banks, whether or not, the Applicant should be given the loan or not. Details of the customers, alongwith the response will be saved to a separate Database, accessed by the Bank.
+
+https://user-images.githubusercontent.com/63901956/123031264-a7c9ad00-d401-11eb-9c09-46dc002a5dd4.mp4
+
+2. 24x7 Smart Banking Bot: This is the FAQ virtual agent, that most of the banks used, for their technical assistance. This bot is trained on Microsoft Power Virtual Agents and deployed in the web app. It is available for customers 24x7 and help in resolving all the initial queries.
+
+https://user-images.githubusercontent.com/63901956/123032352-6df9a600-d403-11eb-9c81-67730acbc609.mp4
+
+3. Credit Card Fraud Detection System: This is a solution for financial sector, but not bank specific. Many e-commerce sites are facing the issues of fraudulent transactions. So, we have trained a regression model on the credit card transaction demo dataset, and then this model will help in identify the corruot transaction. This model is trained on more false positive data, So it may not be accurate as much. But our team is working on this model, to make it realtime streaming data model rather than batch streaming.
+
+https://user-images.githubusercontent.com/63901956/123035009-3d683b00-d408-11eb-9195-b8fb9cb8c7da.mp4
+
