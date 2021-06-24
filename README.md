@@ -34,3 +34,18 @@ https://user-images.githubusercontent.com/63901956/123032352-6df9a600-d403-11eb-
 
 https://user-images.githubusercontent.com/63901956/123035009-3d683b00-d408-11eb-9195-b8fb9cb8c7da.mp4
 
+4. Permanent Account Closure via. Online Application: We offer an online application, for permanent account closure request trough our online portal. User have to provide the information in the fields given. To add an extra layer of security, we have added the power of AI to this application. We have enabled paperless signature verification as well as Facial Verification as the consecutive steps before one can submit the form for approval.
+
+https://user-images.githubusercontent.com/63901956/123244756-d4fd8480-d501-11eb-9c80-1f8c6196e789.mp4
+
+5. Bank Growth Prediction: 
+
+
+<h3>Contribution: </h3>
+
+This project is designed by `Team Connoisseurs`: 
+1. <a href="https://github.com/abhi-bhatra">Abhinav Sharma </a>
+2. <a href="https://github.com/crenspact02">Aditi Gupta </a>
+3. <a href="https://github.com/aditya00khandelwal">Aditya Khandelwal </a>
+4. <a href="https://github.com/akshat-crypto">Akshat Soni </a> 
+
