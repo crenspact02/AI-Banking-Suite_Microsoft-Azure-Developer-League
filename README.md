@@ -22,23 +22,27 @@
 
 <h3>Detailed Working</h3>
 
-1. Smart Loan Approval Application: This is the Machine Learning Model trained on VotingEnsemble Algorithm using Azure Automated ML. Loan Applicant will be given an online form to fill. On the basis of data filled by the customer, the model will recommend to the banks, whether or not, the Applicant should be given the loan or not. Details of the customers, alongwith the response will be saved to a separate Database, accessed by the Bank.
+1. `Smart Loan Approval Application`: This is the Machine Learning Model trained on VotingEnsemble Algorithm using Azure Automated ML. Loan Applicant will be given an online form to fill. On the basis of data filled by the customer, the model will recommend to the banks, whether or not, the Applicant should be given the loan or not. Details of the customers, alongwith the response will be saved to a separate Database, accessed by the Bank.
+`Note: Services are being stopped, due to incurring charges. Placeholders are used in place. CGI-Scripts are mentioned in this repo`
 
 https://user-images.githubusercontent.com/63901956/123031264-a7c9ad00-d401-11eb-9c09-46dc002a5dd4.mp4
 
-2. 24x7 Smart Banking Bot: This is the FAQ virtual agent, that most of the banks used, for their technical assistance. This bot is trained on Microsoft Power Virtual Agents and deployed in the web app. It is available for customers 24x7 and help in resolving all the initial queries.
+2. `24x7 Smart Banking Bot`: This is the FAQ virtual agent, that most of the banks used, for their technical assistance. This bot is trained on Microsoft Power Virtual Agents and deployed in the web app. It is available for customers 24x7 and help in resolving all the initial queries.
+`Note: Services are being stopped, due to incurring charges. Placeholders are used in place.`
 
 https://user-images.githubusercontent.com/63901956/123032352-6df9a600-d403-11eb-9c81-67730acbc609.mp4
 
-3. Credit Card Fraud Detection System: This is a solution for financial sector, but not bank specific. Many e-commerce sites are facing the issues of fraudulent transactions. So, we have trained a regression model on the credit card transaction demo dataset, and then this model will help in identify the corruot transaction. This model is trained on more false positive data, So it may not be accurate as much. But our team is working on this model, to make it realtime streaming data model rather than batch streaming.
+3. `Credit Card Fraud Detection System`: This is a solution for financial sector, but not bank specific. Many e-commerce sites are facing the issues of fraudulent transactions. So, we have trained a regression model on the credit card transaction demo dataset, and then this model will help in identify the corruot transaction. This model is trained on more false positive data, So it may not be accurate as much. But our team is working on this model, to make it realtime streaming data model rather than batch streaming.
+`Note: Services are being stopped, due to incurring charges. Placeholders are used in place. CGI-Scripts are mentioned in this repo`
 
 https://user-images.githubusercontent.com/63901956/123035009-3d683b00-d408-11eb-9195-b8fb9cb8c7da.mp4
 
-4. Permanent Account Closure via. Online Application: We offer an online application, for permanent account closure request trough our online portal. User have to provide the information in the fields given. To add an extra layer of security, we have added the power of AI to this application. We have enabled paperless signature verification as well as Facial Verification as the consecutive steps before one can submit the form for approval.
+4. `Permanent Account Closure via. Online Application`: We offer an online application, for permanent account closure request trough our online portal. User have to provide the information in the fields given. To add an extra layer of security, we have added the power of AI to this application. We have enabled paperless signature verification as well as Facial Verification as the consecutive steps before one can submit the form for approval.
+`Note: Models and frontend are ready, attached in this repo. Connecting frontend to the models is yet to be done.`
 
 https://user-images.githubusercontent.com/63901956/123244756-d4fd8480-d501-11eb-9c80-1f8c6196e789.mp4
 
-5. Bank Growth Prediction: 
+5. `Bank Growth Prediction`: 
 
 
 <h3>Contribution: </h3>
