@@ -42,8 +42,10 @@ https://user-images.githubusercontent.com/63901956/123035009-3d683b00-d408-11eb-
 
 https://user-images.githubusercontent.com/63901956/123244756-d4fd8480-d501-11eb-9c80-1f8c6196e789.mp4
 
-5. `Bank Growth Prediction`: 
+5. `Bank Growth Prediction`: It is an ML model trained on a Bank's economic status and banking and systemic crisis data where inflation, currency crisis and bank crisis of 13 African countries between 1860 to 2014 is given to us. This model is trained on Azure Machine Learning Studio, then it is consumed on Power BI, which creates a powerful report and further dashboards, which we have published in the web app.
+`Note: To publish Power BI dashboards in web app, we need Power BI Professional. That is why, after creating the service and the promo video, we have stopped the service to save the charges`
 
+https://user-images.githubusercontent.com/63901956/123449772-9ba84000-d5f9-11eb-8c08-6eaecad2fae8.mp4
 
 <h3>Contribution: </h3>
 
