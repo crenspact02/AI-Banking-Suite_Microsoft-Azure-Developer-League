@@ -16,7 +16,7 @@
 </li>
   <li><b>Predictive AI: </b>Monitors the bank growth constantly and predicts its future positions in the market. This will help the banks in tracking their current progress and modify their current methodologies if need be.
 </li>
-  <li><b>Permanent Account Closing Request Form with Facial Verification: </b>Designed for the bank's clients, we have seen account opening facilities available so that customers can easily open a bank account digitally, but no bank offers permanent account closing facility. We provide this facility in our project.
+  <li><b>Permanent Account Closure: </b>Designed for the bank's clients, we have seen account opening facilities available so that customers can easily open a bank account digitally, but no bank offers permanent account closing facility. We provide this facility in our project ensuring secure conduct through facial recognition!
   </li>
 </ul>
 
